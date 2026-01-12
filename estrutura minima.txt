@@ -1,0 +1,7 @@
+sistema-logistica-wms
+│
+├─ src
+│   └─ LogisticaWMS.jsx
+│
+├─ package.json
+├─ README.md
